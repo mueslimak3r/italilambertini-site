@@ -1,0 +1,44 @@
+h1#red-title {
+    font-size: 48px;
+    color: #ab2b00;
+    font-family: "Forum";
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+h2, p {
+    color: #222;
+}
+
+h1, h2, p {
+    text-align: center;
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.image-caption {
+    margin-bottom: 30px;
+}
+
+.list-block {
+    margin-bottom: 30px;
+}
+
+.list-block > p {
+    text-align: left;
+    margin-bottom: 5px;
+}
+
+.custom-work-img-grid {
+  display: grid;
+  grid-template:
+  'custom-work-r1c1 custom-work-r1c2'
+  'custom-work-r2c1 custom-work-r2c2';
+  grid-gap: 10px;
+  #background-color: #2196F3;
+  padding: 0px;
+  min-width: 345px;
+}

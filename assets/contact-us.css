@@ -1,0 +1,46 @@
+.black-title {
+    font-size: 48px;
+    color: #000000;
+    font-family: "Forum";
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+h4, h2, p {
+    color: #222;
+    text-align: left;
+}
+
+.text-block {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.contact-us-grid {
+  display: grid;
+  min-width: 1fr;
+  grid-template-columns: repeat(auto-fill, minmax(315px, 0.5fr));
+  grid-gap: 1em;
+  #background-color: #2196F3;
+  padding: 0px;
+  min-width: 315px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.contact-us-grid > div {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.social-media-grid {
+      display: grid;
+      min-width: 1fr;
+      grid-template-columns: repeat(auto-fill, minmax(315px, 0.5fr));
+      grid-gap: 1em;
+      #background-color: #2196F3;
+      padding: 0px;
+      min-width: 315px;
+      margin-left: auto;
+      margin-right: auto;
+}
