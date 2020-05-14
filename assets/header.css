@@ -31,7 +31,7 @@ div#logo-wrap {
 
 h3#logo a {
     font-weight: 100;
-    font-size: 59px;
+    font-size: 3.3em;
     color: #000000;
     letter-spacing: -2px;
     text-decoration: none;
@@ -48,6 +48,22 @@ h3#logo a {
 a#link-to-top-wrapper {
     margin-right: auto;
     margin-left: auto;
+}
+
+h1#red-title {
+    font-size: 48px;
+    color: #ab2b00;
+    font-family: "Forum";
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+.black-title {
+    font-size: 48px;
+    color: #000000;
+    font-family: "Forum";
+    margin-bottom: 10px;
+    font-weight: 600;
 }
 
 h3#link-to-top {
