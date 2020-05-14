@@ -2,12 +2,12 @@ body {
     #background-color: #ffffff;
     background-color: #ebbc00;
     min-width:540px !important;
-    scroll-behavior: smooth !important;
+    scroll-behavior: smooth;
 }
 
-a {
-    color: red !important;
-    text-decoration: none !important;
+.link-to-top {
+    color: green;
+    text-decoration: none;
 }
 
 footer {
