@@ -35,7 +35,7 @@ SESSION_COOKIE_SECURE = True
 # Debug mode hosts
 
 
-ALLOWED_HOSTS = [ '127.0.0.1' ]
+ALLOWED_HOSTS = [ '127.0.0.1', '192.168.0.12' ]
 
 # Application definition
 

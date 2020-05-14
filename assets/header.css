@@ -72,3 +72,10 @@ h3#link-to-top {
     margin-right: 18vw;
     margin-top: 75px;
 }
+
+@media only screen and (max-width: 812px) {
+    .body-wrapper {
+        margin-left: 18vw;
+        margin-right: 18vw;
+    }
+}
