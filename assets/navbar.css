@@ -98,6 +98,9 @@
     color: #ab2b00;
     background-color: #ebbc00;
   }
+  .navbar .navbar-nav .nav-link {
+    font-size: 16px;
+  }
 }
 
 @media (max-width: 1199px) {
