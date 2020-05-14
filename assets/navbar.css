@@ -22,7 +22,7 @@
   color: #616161;
   border-radius: .25rem;
   margin: 0 0.25em;
-  font-size: 28px;
+  font-size: 1.6em;
 }
 .navbar .navbar-nav .nav-link:not(.disabled):hover,
 .navbar .navbar-nav .nav-link:not(.disabled):focus {
@@ -97,9 +97,6 @@
   .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item.active {
     color: #ab2b00;
     background-color: #ebbc00;
-  }
-  .navbar .navbar-nav .nav-link {
-    font-size: 16px;
   }
 }
 
