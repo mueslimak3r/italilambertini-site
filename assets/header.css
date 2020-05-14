@@ -59,7 +59,6 @@ a#link-to-top-wrapper {
 }
 
 h1#red-title {
-    font-size: 48px;
     color: #ab2b00;
     font-family: "Forum";
     margin-bottom: 10px;
@@ -67,7 +66,6 @@ h1#red-title {
 }
 
 .black-title {
-    font-size: 48px;
     color: #000000;
     font-family: "Forum";
     margin-bottom: 10px;
