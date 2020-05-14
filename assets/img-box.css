@@ -1,3 +1,7 @@
+.imgbanner {
+    min-width: 315px;
+}
+
 .imgbox {
     margin-right: 0;
     margin-top: 29px;
@@ -5,7 +9,6 @@
     display: grid;
     height: 100%;
     width: 100%;
-    min-width: 315px;
 }
 
 .center-fit {
