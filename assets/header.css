@@ -73,7 +73,7 @@ h3#link-to-top {
     margin-top: 75px;
 }
 
-@media only screen and (max-width: 812px) {
+@media screen and (max-width: 980px) {
     .body-wrapper {
         margin-left: 2vw;
         margin-right: 2vw;
