@@ -1,0 +1,23 @@
+h1#red-title {
+    font-size: 48px;
+    color: #ab2b00;
+    font-family: "Forum";
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+h2, p {
+    color: #222;
+}
+
+h1, h2, p {
+    text-align: center;
+}
+
+h2 {
+    font-weight: 400;
+}
+
+.image-caption {
+    margin-bottom: 30px;
+}

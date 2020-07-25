@@ -22,3 +22,6 @@ def ourstory(request):
 
 def contactus(request):
     return render(request, 'contact-us.html')
+
+def investmentcoin(request):
+    return render(request, 'investment-coin.html')
