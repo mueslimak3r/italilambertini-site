@@ -33,7 +33,7 @@ SESSION_COOKIE_SECURE = True
 # Debug mode hosts
 
 
-ALLOWED_HOSTS = [ '127.0.0.1', "itali.cameronlambert.com" ]
+ALLOWED_HOSTS = [ '127.0.0.1', "www.italilambertini.com", "italilambertini.com" ]
 
 # Application definition
 
